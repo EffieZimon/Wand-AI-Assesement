@@ -1,0 +1,24 @@
+{
+  "name": "wand-ai",
+  "version": "1.0.0",
+  "description": "wand-ai-take-home-assement",
+  "homepage": "https://github.com/EffieZimon/Wand-AI---24-Hour-Assesement#readme",
+  "bugs": {
+    "url": "https://github.com/EffieZimon/Wand-AI---24-Hour-Assesement/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EffieZimon/Wand-AI---24-Hour-Assesement.git"
+  },
+  "license": "ISC",
+  "author": "Effie Zimon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
