@@ -1,6 +1,6 @@
-QA Take-Home — Submission
+QA
 
-This repository contains Cypress automation tests for the QA take-home assessment.
+This repository contains Cypress automation tests for the QA assessment.
 
 ---
 ## Quick Start
