@@ -1,6 +1,6 @@
-# 24-Hour QA Take-Home — Submission
+QA Take-Home — Submission
 
-This repository contains Cypress automation tests for the 24-Hour QA take-home assessment.
+This repository contains Cypress automation tests for the QA take-home assessment.
 
 ---
 ## Quick Start
